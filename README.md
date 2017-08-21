@@ -19,3 +19,16 @@ Usage
 -----
 
 See [examples/example.ino](examples/example.ino) for an example. This example can be used on both devices, and will periodically send `hello world` while printing out details of any received packets.
+
+Pinouts for Arduino
+===================
+
+Works For Nano
+GND  >> GND
+VCC  >> 3V
+SCK  >> D13
+MOSI >> D11
+GDO2 >> D9
+MISO >> D12
+CSN  >> D10
+GDO0 >> D2
